@@ -1,0 +1,16 @@
+{
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "name": "sab12sep15",
+  "version": "0.0.0",
+  "author": "Alecs",
+  "private": true
+}
